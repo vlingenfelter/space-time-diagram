@@ -1,5 +1,5 @@
 body { font: 12px Arial;}
-
+#graph { width: 90%}
 path {
     stroke: steelblue;
     stroke-width: 2;
